@@ -1,0 +1,6 @@
+Hello Programmers! 
+
+I am Fazlur Rahman. I am learning git & github. 
+
+Its a awesome open source software. 
+
